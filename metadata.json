@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Subtitle Generator",
+  "description": "Upload a video, generate subtitles in real-time by speaking into your microphone with Gemini AI, and customize their appearance. Adjust font size, color, style, and drag subtitles to the perfect position on your video.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
